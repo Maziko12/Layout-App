@@ -1,6 +1,6 @@
 # App Layout para a Prof
 
-A new Flutter project.
+Sistema desenvolvido como atividade vinculada ao Múdolu 2 do curso Desenvolvimento Web.
 
 ## Getting Started
 
